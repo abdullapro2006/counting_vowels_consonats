@@ -1,0 +1,15 @@
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\bin\Debug\net6.0\Counting vowels and consonats in the sentence.exe
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\bin\Debug\net6.0\Counting vowels and consonats in the sentence.deps.json
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\bin\Debug\net6.0\Counting vowels and consonats in the sentence.runtimeconfig.json
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\bin\Debug\net6.0\Counting vowels and consonats in the sentence.dll
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\bin\Debug\net6.0\Counting vowels and consonats in the sentence.pdb
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\obj\Debug\net6.0\Counting vowels and consonats in the sentence.csproj.AssemblyReference.cache
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\obj\Debug\net6.0\Counting vowels and consonats in the sentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\obj\Debug\net6.0\Counting vowels and consonats in the sentence.AssemblyInfoInputs.cache
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\obj\Debug\net6.0\Counting vowels and consonats in the sentence.AssemblyInfo.cs
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\obj\Debug\net6.0\Counting vowels and consonats in the sentence.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\obj\Debug\net6.0\Counting vowels and consonats in the sentence.dll
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\obj\Debug\net6.0\refint\Counting vowels and consonats in the sentence.dll
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\obj\Debug\net6.0\Counting vowels and consonats in the sentence.pdb
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\obj\Debug\net6.0\Counting vowels and consonats in the sentence.genruntimeconfig.cache
+C:\Users\Abdullah Manafli\source\repos\Counting vowels and consonats in the sentence\Counting vowels and consonats in the sentence\obj\Debug\net6.0\ref\Counting vowels and consonats in the sentence.dll
